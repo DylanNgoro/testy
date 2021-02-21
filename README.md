@@ -1,2 +1,2 @@
 # testy
-Testy repo
+Testy repo for git commands demonstration
